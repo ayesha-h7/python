@@ -1,0 +1,52 @@
+#taking a and b values from user
+a = float(input())
+b = float(input())
+#arithmetic operators
+#adiition
+add = a + b
+#subtraction
+sub = a - b
+#multiplication
+mul = a * b
+#modulus
+mod = a % b
+#power or exponent
+pow = a ** b
+print(add)
+print(sub)
+print(mul)
+print(mod)
+print(p)
+#Comparision Operators
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+#logical operators
+c = True
+d = False
+print(a and b)
+print(a or b)
+print(not a)
+#bitwise opearators
+print(a & b)
+print(a | b)
+print(~a)
+print(a ^ b)
+print(a >> 2)
+print(a << 2)
+#assignment operators
+e = 10
+f = e
+print(b)
+b += a
+print(b)
+b -= a
+print(b)
+b *= a
+print(b)
+b <<= a
+print(b)
+
