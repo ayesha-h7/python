@@ -1,0 +1,10 @@
+print("Try programiz.pro")
+#Enter length and breadth of rectangle
+length=int(input())
+breadth=int(input())
+#calculating perimeter
+peri=(2*(length+breadth))
+print(peri)
+#calculating area
+area=length*breadth
+print(area)
