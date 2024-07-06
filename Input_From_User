@@ -1,0 +1,6 @@
+#input() function
+a=input()
+print("the input is:",a)
+#taking integer input from user
+b=int(input())
+print("the value is",b)
