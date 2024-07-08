@@ -1,4 +1,3 @@
-print("Try programiz.pro")
 #Enter length and breadth of rectangle
 length=int(input())
 breadth=int(input())
